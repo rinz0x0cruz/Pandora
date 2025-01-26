@@ -1,0 +1,3 @@
+execve("./shellcode0x1", ["./shellcode0x1"], 0x7fff386d6af0 /* 48 vars */) = 0
+exit(1337)                              = ?
++++ exited with 57 +++
